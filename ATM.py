@@ -8,4 +8,3 @@ for i in range(len(time)):  # 각 사람이 돈을 인출하는 데 필요한 �
     k += time[i]
     sum_t += k
 print(sum_t)
-    
